@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My first app</string>
+    <string name="google_details">Google Drive is a file-hosting service and synchronization service developed by Google. Launched on April 24, 2012, Google Drive allows users to store files in the cloud, synchronize files across devi…</string>
+    <string name="google_address">mountain view ,california</string>
+    <string name="google_link"><u>www.google.com</u></string>
+
+
+</resources>

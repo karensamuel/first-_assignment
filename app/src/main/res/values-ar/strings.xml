@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">برنامجي الاول</string>
+    <string name="google_details"> جوجل هي شركة جميلة و عريقة </string>
+    <string name="google_address">جيزة</string>
+    <string name="google_link"><u>www.google.com</u></string>
+
+
+</resources>
